@@ -12,6 +12,9 @@
         <li>TailwindCSS</li>
         <li>React</li>
         <li>Astro</li>
+
+
+![Cristopher GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisMesina&show_icons=true&theme=transparent)
         
 
 
