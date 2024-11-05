@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on ...
   <h1>¿Donde puedes encontrarme?</h1>
-  - Buscame en mi [Instagram](https://www.instagram.com/_antikristo_/)
+  - Buscame en mi <a href="https://www.instagram.com/_antikristo_/">Instagram</a>
